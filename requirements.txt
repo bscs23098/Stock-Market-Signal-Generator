@@ -1,0 +1,11 @@
+
+
+```txt
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+ta
+streamlit
